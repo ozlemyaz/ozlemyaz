@@ -1,6 +1,6 @@
 <h1>   Hi there 👋 </h1>
 <h1> I am Ozlem </h1>
-<p>My LINKEDIN profile <a target="_blank" href="https://www.linkedin.com/feed/"></a>
+<p> <a target="_blank" href="https://www.linkedin.com/feed/" My LINKEDIN profile></a>
 </p>
 
 
