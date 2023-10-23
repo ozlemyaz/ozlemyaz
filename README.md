@@ -1,7 +1,7 @@
 <h1>   Hi there 👋 </h1>
 <h1> I am Ozlem </h1>
-<p> <a target="_blank" href="https://www.linkedin.com/feed/" My LINKEDIN profile></a>
-</p>
+ <a target="_blank" href="https://www.linkedin.com/feed/" My LINKEDIN profile></a>
+
 
 
 **ozlemyaz/ozlemyaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
